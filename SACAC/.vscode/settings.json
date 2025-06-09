@@ -1,0 +1,3 @@
+{
+    "python.analysis.extraPaths": ["./ACRL/third_party"]
+}

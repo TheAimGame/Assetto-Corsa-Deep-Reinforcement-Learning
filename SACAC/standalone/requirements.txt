@@ -1,0 +1,12 @@
+numpy
+torch
+cmake
+gym
+gymnasium
+stable-baselines3[extra]
+keyboard
+vgamepad
+matplotlib
+gymnasium
+mpi4py
+joblib
